@@ -1,8 +1,24 @@
-# React + Vite
+# Frontend Mentor - Base Apparel Coming Soon Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Design preview for the Base Apparel Coming Soon Page coding challenge](./design/desktop-preview.jpg)
 
-Currently, two official plugins are available:
+## Welcome! 👋
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  <h3><a href="https://michelesilva20.github.io/base-apparel-coming-soon-page/" target="_blank">Explore the project!</a></h3>
+</div>
+
+<div>
+    <h2>📖 Description</h2>
+    <p><strong>Base Apparel Coming Soon Page</strong> is a front-end challenge presented by <a href="https://www.frontendmentor.io/" target="_blank"></a> to showcase one's ability in creating layouts, responsiveness, structure HTML, basic CSS and input validation using JavaScript.</p>
+
+</div>
+
+<div>
+  <h2>💻 Technologies</h2>
+  <ul>
+    <li>REACTJS</li>
+    <li>VITE</li>
+    <li>CSS</li>
+  </ul>
+</div>
